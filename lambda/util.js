@@ -1,4 +1,4 @@
-const characters = ['batman', 'superman', 'homem de ferro', 'capitão américa', 'sakura', "super choque" ,'mulher maravilha', 'naruto'];
+const characters = ['batman', 'superman', 'homem de ferro', 'capitão américa'];
 
 module.exports.getCharacter = function getCharacter(hero) {
 
